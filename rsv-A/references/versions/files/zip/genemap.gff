@@ -1,0 +1,15 @@
+##sequence-region KJ627695.1 1 15160
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1439707
+KJ627695.1	Genbank	region	1	15160	.	+	.	ID=KJ627695.1:1..15160;Dbxref=taxon:1439707;collection-date=2001;country=USA: Tennessee;gbkey=Src;genome=genomic;isolate=RSV-A/US/BID-V8469/2001;isolation-source=nasal aspirate;mol_type=viral cRNA;nat-host=Homo sapiens%3B age: 2 months%3B sex: female;note=cohort population: Infant;type=A
+KJ627695.1	Genbank	CDS	51	470	.	+	0	ID=cds-AHW80983.1;Parent=gene-NS1;Dbxref=NCBI_GP:AHW80983.1;Name=AHW80983.1;gbkey=CDS;gene=NS1;product=non-structural protein 1;protein_id=AHW80983.1
+KJ627695.1	Genbank	CDS	580	954	.	+	0	ID=cds-AHW80984.1;Parent=gene-NS2;Dbxref=NCBI_GP:AHW80984.1;Name=AHW80984.1;gbkey=CDS;gene=NS2;product=non-structural protein 2;protein_id=AHW80984.1
+KJ627695.1	Genbank	CDS	1092	2267	.	+	0	ID=cds-AHW80985.1;Parent=gene-N;Dbxref=NCBI_GP:AHW80985.1;Name=AHW80985.1;gbkey=CDS;gene=N;product=nucleoprotein;protein_id=AHW80985.1
+KJ627695.1	Genbank	CDS	2299	3024	.	+	0	ID=cds-AHW80986.1;Parent=gene-P;Dbxref=NCBI_GP:AHW80986.1;Name=AHW80986.1;gbkey=CDS;gene=P;product=phosphoprotein;protein_id=AHW80986.1
+KJ627695.1	Genbank	CDS	3207	3977	.	+	0	ID=cds-AHW80987.1;Parent=gene-M;Dbxref=NCBI_GP:AHW80987.1;Name=AHW80987.1;gbkey=CDS;gene=M;product=matrix protein;protein_id=AHW80987.1
+KJ627695.1	Genbank	CDS	4248	4442	.	+	0	ID=cds-AHW80988.1;Parent=gene-SH;Dbxref=NCBI_GP:AHW80988.1;Name=AHW80988.1;gbkey=CDS;gene=SH;product=small hydrophobic protein;protein_id=AHW80988.1
+KJ627695.1	Genbank	CDS	4633	5529	.	+	0	ID=cds-AHW80989.1;Parent=gene-G;Dbxref=NCBI_GP:AHW80989.1;Name=AHW80989.1;gbkey=CDS;gene=G;product=attachment protein;protein_id=AHW80989.1
+KJ627695.1	Genbank	CDS	5606	7330	.	+	0	ID=cds-AHW80990.1;Parent=gene-F;Dbxref=NCBI_GP:AHW80990.1;Name=AHW80990.1;gbkey=CDS;gene=F;product=fusion protein;protein_id=AHW80990.1
+KJ627695.1	Genbank	CDS	7551	8135	.	+	0	ID=cds-AHW80991.1;Parent=gene-M2;Dbxref=NCBI_GP:AHW80991.1;Name=AHW80991.1;gbkey=CDS;gene=M2;product=matrix protein 2-1;protein_id=AHW80991.1
+KJ627695.1	Genbank	CDS	8443	14940	.	+	0	ID=cds-AHW80992.1;Parent=gene-L;Dbxref=NCBI_GP:AHW80992.1;Name=AHW80992.1;gbkey=CDS;gene=L;product=L polymerase;protein_id=AHW80992.1
+
+
