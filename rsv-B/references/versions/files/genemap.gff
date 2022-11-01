@@ -1,8 +1,8 @@
-MT107528.1	Genbank	gene	125	544	.	+	0	ID=gene-NS1;Name=NS1;gbkey=Gene;gene_name=NS1;gene_biotype=protein_coding
-MT107528.1	Genbank	gene	652	1026	.	+	0	ID=gene-NS2;Name=NS2;gbkey=Gene;gene_name=NS2;gene_biotype=protein_coding
-MT107528.1	Genbank	gene	1165	2340	.	+	0	ID=gene-N;Name=N;gbkey=Gene;gene_name=N;gene_biotype=protein_coding
-MT107528.1	Genbank	gene	2373	3098	.	+	0	ID=gene-P;Name=P;gbkey=Gene;gene_name=P;gene_biotype=protein_coding
-MT107528.1	Genbank	gene	3288	4058	.	+	0	ID=gene-M;Name=M;gbkey=Gene;gene_name=M;gene_biotype=protein_coding
-MT107528.1	Genbank	gene	4713	5645	.	+	0	ID=gene-G;Name=G;gbkey=Gene;gene_name=G;gene_biotype=protein_coding
-MT107528.1	Genbank	gene	5743	7467	.	+	0	ID=gene-F;Name=F;gbkey=Gene;gene_name=F;gene_biotype=protein_coding
-MT107528.1	Genbank	gene	8519	15085	.	+	0	ID=gene-L;Name=L;gbkey=Gene;gene_name=L;gene_biotype=protein_coding
+pseudoMT107528.1	Genbank	gene	76	494	.	+	0	ID=gene-NS1;Name=NS1;gbkey=Gene;gene_name=NS1;gene_biotype=protein_coding
+pseudoMT107528.1	Genbank	gene	652	1026	.	+	0	ID=gene-NS2;Name=NS2;gbkey=Gene;gene_name=NS2;gene_biotype=protein_coding
+pseudoMT107528.1	Genbank	gene	1165	2340	.	+	0	ID=gene-N;Name=N;gbkey=Gene;gene_name=N;gene_biotype=protein_coding
+pseudoMT107528.1	Genbank	gene	2373	3098	.	+	0	ID=gene-P;Name=P;gbkey=Gene;gene_name=P;gene_biotype=protein_coding
+pseudoMT107528.1	Genbank	gene	3288	4058	.	+	0	ID=gene-M;Name=M;gbkey=Gene;gene_name=M;gene_biotype=protein_coding
+pseudoMT107528.1	Genbank	gene	4713	5645	.	+	0	ID=gene-G;Name=G;gbkey=Gene;gene_name=G;gene_biotype=protein_coding
+pseudoMT107528.1	Genbank	gene	5743	7467	.	+	0	ID=gene-F;Name=F;gbkey=Gene;gene_name=F;gene_biotype=protein_coding
+pseudoMT107528.1	Genbank	gene	8519	15085	.	+	0	ID=gene-L;Name=L;gbkey=Gene;gene_name=L;gene_biotype=protein_coding
