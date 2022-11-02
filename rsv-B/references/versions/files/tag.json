@@ -21,5 +21,14 @@
     "tree": "tree.json",
     "virusPropertiesJson": "virus_properties.json"
   },
-  "metadata": {}
-}
+  "metadata": {},
+  "defaultGene": "G",
+  "geneOrderPreference": [
+    "F",
+    "G",
+    "L",
+    "M",
+    "N",
+    "NS1",
+    "NS2",
+    "P"]
